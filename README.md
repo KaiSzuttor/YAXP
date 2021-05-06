@@ -1,5 +1,7 @@
 # Yet Another XML Parser
 
+This is a fun project with the goal of learning about parser implementations.
+
 ## Build
 
 ### Simple
