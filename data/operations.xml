@@ -1,0 +1,6 @@
+<operations>
+  <operation name="important" type="attrib" func="average" attrib="population" filter="M.*"/>
+  <operation name="information" type="sub" func="sum" attrib="area" filter=".*burg"/>
+  <operation name="for" type="sub" func="min" attrib="area" filter=".*n.+"/>
+  <operation name="future" type="attrib" func="max" attrib="population" filter=".*e.*n.*"/>
+</operations>

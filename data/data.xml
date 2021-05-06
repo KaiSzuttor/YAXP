@@ -1,0 +1,26 @@
+<data>
+  <city name="Stuttgart" population="601646">
+    <area>207.36</area>
+  </city>
+  <city name="Moskau" population="10563038">
+    <area>1081.5</area>
+  </city>
+  <city name="Washington DC" population="588292">
+    <area>3323.7</area>
+  </city>
+  <city name="München" population="1330440">
+    <area>310.43</area>
+  </city>
+  <city name="Berlin" population="3440441">
+    <area>891.85</area>
+  </city>  
+  <city name="Hamburg" population="1774224">
+    <area>755.264</area>
+  </city>
+  <city name="Mainz" population="197778">
+    <area>97.76</area>
+  </city>
+  <city name="Regensburg" population="134218">
+    <area>80.76</area>
+  </city>  
+</data>

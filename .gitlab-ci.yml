@@ -1,0 +1,9 @@
+image: ubuntu:20.04
+
+before_script:
+  - apt-get update
+  - apt-get install -y clang cmake
+
+build_and_test:
+  script:
+    - mkdir build && cd build && cmake .. && make && ctest
